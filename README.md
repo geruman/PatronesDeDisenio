@@ -32,3 +32,12 @@
 [13 DAO](https://github.com/geruman/13_DAO)
 
 [14 Dependency Injection](https://github.com/geruman/14_Dependency_injection)
+
+## C Sharp
+### Patrones Creacionales
+
+### Patrones Estructurales
+[Adapter](https://github.com/geruman/CsAdapter)
+
+[Decorator](https://github.com/geruman/CsDecorator)
+### Patrones de comportamiento
