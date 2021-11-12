@@ -40,4 +40,6 @@
 [Adapter](https://github.com/geruman/CsAdapter)
 
 [Decorator](https://github.com/geruman/CsDecorator)
+
+[Composite][https://github.com/geruman/CsComposite]
 ### Patrones de comportamiento
