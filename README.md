@@ -41,5 +41,5 @@
 
 [Decorator](https://github.com/geruman/CsDecorator)
 
-[Composite][https://github.com/geruman/CsComposite]
+[Composite](https://github.com/geruman/CsComposite)
 ### Patrones de comportamiento
