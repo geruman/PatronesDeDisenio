@@ -43,3 +43,4 @@
 
 [Composite](https://github.com/geruman/CsComposite)
 ### Patrones de comportamiento
+[Observer](https://github.com/geruman/CsObserver)
