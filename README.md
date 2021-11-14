@@ -35,6 +35,7 @@
 
 ## C Sharp
 ### Patrones Creacionales
+[Abstract factory](https://github.com/geruman/CsAbstractFactory)
 
 ### Patrones Estructurales
 [Adapter](https://github.com/geruman/CsAdapter)
