@@ -39,6 +39,8 @@
 
 [Builder](https://github.com/geruman/CsBuilder)
 
+[Singleton](https://github.com/geruman/CsSingleton)
+
 ### Patrones Estructurales
 [Adapter](https://github.com/geruman/CsAdapter)
 
