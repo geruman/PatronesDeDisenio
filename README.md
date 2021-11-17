@@ -41,11 +41,14 @@
 
 [Singleton](https://github.com/geruman/CsSingleton)
 
+[9 Prototype](https://github.com/geruman/CsPrototype)
+
 ### Patrones Estructurales
 [Adapter](https://github.com/geruman/CsAdapter)
 
 [Decorator](https://github.com/geruman/CsDecorator)
 
 [Composite](https://github.com/geruman/CsComposite)
+
 ### Patrones de comportamiento
 [Observer](https://github.com/geruman/CsObserver)
