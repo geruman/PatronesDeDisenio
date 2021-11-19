@@ -52,3 +52,5 @@
 
 ### Patrones de comportamiento
 [Observer](https://github.com/geruman/CsObserver)
+
+[10 Memento](https://github.com/geruman/CsMemento)
