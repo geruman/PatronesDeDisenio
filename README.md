@@ -54,3 +54,7 @@
 [Observer](https://github.com/geruman/CsObserver)
 
 [10 Memento](https://github.com/geruman/CsMemento)
+
+[11 Chain of responsability](https://github.com/geruman/CsChainOfResponsability)
+
+[12 Command](https://github.com/geruman/CsCommand)
