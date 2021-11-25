@@ -58,3 +58,5 @@
 [11 Chain of responsability](https://github.com/geruman/CsChainOfResponsability)
 
 [12 Command](https://github.com/geruman/CsCommand)
+
+[13 Strategy](https://github.com/geruman/CsStrategy)
