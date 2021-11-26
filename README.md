@@ -60,3 +60,5 @@
 [12 Command](https://github.com/geruman/CsCommand)
 
 [13 Strategy](https://github.com/geruman/CsStrategy)
+
+[14 Template method](https://github.com/geruman/CsTemplateMethod)
