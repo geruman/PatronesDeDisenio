@@ -62,3 +62,5 @@
 [13 Strategy](https://github.com/geruman/CsStrategy)
 
 [14 Template method](https://github.com/geruman/CsTemplateMethod)
+
+[15 Visitor](https://github.com/geruman/CsVisitor)
