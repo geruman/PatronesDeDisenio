@@ -63,4 +63,6 @@
 
 [14 Template method](https://github.com/geruman/CsTemplateMethod)
 
-[15 Visitor](https://github.com/geruman/CsVisitor)
+[15 State](https://github.com/geruman/CsState)
+
+[16 Visitor](https://github.com/geruman/CsVisitor)
