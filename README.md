@@ -66,3 +66,7 @@
 [15 State](https://github.com/geruman/CsState)
 
 [16 Visitor](https://github.com/geruman/CsVisitor)
+
+[17 Mediator](https://github.com/geruman/CsMediator)
+
+[18 Interpreter](https://github.com/geruman/CsInterpreter)
