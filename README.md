@@ -50,6 +50,8 @@
 
 [Composite](https://github.com/geruman/CsComposite)
 
+[Proxy](https://github.com/geruman/CsProxy)
+
 ### Patrones de comportamiento
 [Observer](https://github.com/geruman/CsObserver)
 
