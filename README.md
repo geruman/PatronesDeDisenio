@@ -70,3 +70,5 @@
 [17 Mediator](https://github.com/geruman/CsMediator)
 
 [18 Interpreter](https://github.com/geruman/CsInterpreter)
+
+[19 Iterator](https://github.com/geruman/CsIterator)
